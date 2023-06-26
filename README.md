@@ -8,8 +8,9 @@ This repository aims to provide a comprehensive guide to Pythonic concepts throu
 ## Table of Contents
 Will update it on daliy basis
 1. [Super Init Method](Super-Init-Method.ipynb)
-   - >### while deriving a class why we use super init method
-     >### In case of a derived class how the code flow will take place?
+   - >### While deriving a class, why do we use the super init method?
+     >### In the case of a derived class, how will the code flow take place?
+
 
 
 

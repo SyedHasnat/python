@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+authors:
+- family-names: "Syed Muahammad"
+  given-names: "Hasanat"
+title: "Pythonic Concepts Through Coding"
+version: 2.0.4
+doi: NIll
+date-released: 2023-6-26
+url: "https://github.com/SyedHasnat/python"

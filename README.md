@@ -7,7 +7,7 @@ This repository aims to provide a comprehensive guide to Pythonic concepts throu
 
 ## Table of Contents
 Will update it on daliy basis
-1. [Super Init Method](#Super-Init-Method.ipynb)
+1. [Super Init Method](#https://github.com/SyedHasnat/python/blob/main/Super-Init-Method.ipynb)
    - >### while deriving a class why we use super init method
      >### In case of a derived class how the code flow will take place?
 
